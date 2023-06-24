@@ -1,0 +1,17 @@
+SERVICE 
+
+Synthara
+
+STATUS 
+
+Online 
+
+STATUS 
+
+MESSAGE
+
+All Systems Normal 
+
+MESSAGE 
+
+SERVICE 
