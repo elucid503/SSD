@@ -27,8 +27,8 @@
     { 
 
         "ServiceName": "Sprout Website",
-        "Status": "Maintenance",
-        "Remarks": "Maintenance is planned soon.<br>The website will be offline on June 26th from 8 - 9 PM EST."
+        "Status": "Online",
+        "Remarks": "Everything is working!"
 
     },
 
