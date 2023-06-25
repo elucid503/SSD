@@ -6,6 +6,46 @@
         "Status": "Online",
         "Remarks": "Everything is working!"
 
+    },
+
+    { 
+
+        "ServiceName": "Synthara Web Portal",
+        "Status": "Online",
+        "Remarks": "Everything is working!."
+
+    },
+
+    { 
+
+        "ServiceName": "Ducky",
+        "Status": "Degraded",
+        "Remarks": "We're putting more effort on Synthara.<br>Please upgrade to Synthara soon!"
+
+    },
+
+    { 
+
+        "ServiceName": "Sprout Website",
+        "Status": "Maintenance",
+        "Remarks": "Maintenance is planned soon.<br>The website will be offline on June 26th from 8 - 9 PM EST."
+
+    },
+
+    { 
+
+        "ServiceName": "Indra Web Portal",
+        "Status": "Offline",
+        "Remarks": "The Indra Web Portal is currently offline due to DNS issues.<br>We are unsure when the site will be back online."
+
+    },
+
+    { 
+
+        "ServiceName": "Performing Arts Site",
+        "Status": "Online",
+        "Remarks": "Everything is working!."
+
     }
 
 ]
