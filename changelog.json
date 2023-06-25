@@ -4,16 +4,8 @@
 
         "ServiceName": "Sprout Website",
         "Version": "3.0",
-        "Changelog": "A new redesign with a sidebar and dynamic content.<br>This also supports HTML tags."
+        "Changelog": "A new redesign with a sidebar and dynamic content.<br>Service changes now live here too!"
 
     },
-
-    { 
-
-        "ServiceName": "Synthara",
-        "Version": "1.4",
-        "Changelog": "Added lots of new stuff. This supports HTML tags."
-
-    }
 
 ]
