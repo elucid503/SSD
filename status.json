@@ -4,7 +4,7 @@
 
         "ServiceName": "Synthara",
         "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, July 27th."
+        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
 
     },
 
@@ -12,7 +12,7 @@
 
         "ServiceName": "Synthara Web Portal",
         "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, July 27th."
+        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
 
     },
 
@@ -20,7 +20,7 @@
 
         "ServiceName": "Ducky",
         "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, July 27th."
+        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
 
     },
 
@@ -28,15 +28,15 @@
 
         "ServiceName": "Sprout Website",
         "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, July 27th."
+        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
 
     },
 
     { 
 
         "ServiceName": "Indra Web Portal",
-        "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, July 27th."
+        "Status": "Offline",
+        "Remarks": "The Indra Web Portal is currently offline due to DNS issues.<br>We are unsure when the site will be back online."
 
     },
 
@@ -44,7 +44,7 @@
 
         "ServiceName": "Performing Arts Site",
         "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, July 27th."
+        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
 
     }
 
