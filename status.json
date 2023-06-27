@@ -3,32 +3,32 @@
     { 
 
         "ServiceName": "Synthara",
-        "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
+        "Status": "Online",
+        "Remarks": "Everything is working!"
 
     },
 
     { 
 
         "ServiceName": "Synthara Web Portal",
-        "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
+        "Status": "Online",
+        "Remarks": "Everything is working!"
 
     },
 
     { 
 
         "ServiceName": "Ducky",
-        "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
+        "Status": "Degraded",
+        "Remarks": "We're putting more effort on Synthara.<br>Please upgrade to Synthara soon!"
 
     },
 
     { 
 
         "ServiceName": "Sprout Website",
-        "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
+        "Status": "Online",
+        "Remarks": "Everything is working!"
 
     },
 
@@ -36,15 +36,15 @@
 
         "ServiceName": "Indra Web Portal",
         "Status": "Offline",
-        "Remarks": "The Indra Web Portal is currently offline due to DNS issues.<br>We are unsure when the site will be back online."
+        "Remarks": "The Indra Web Portal is currently offline and will most likely be depreciated soon."
 
     },
 
     { 
 
         "ServiceName": "Performing Arts Site",
-        "Status": "Maintenance",
-        "Remarks": "We will be performing maintenance from 2 - 3PM EST on Tuesday, June 27th."
+        "Status": "Online",
+        "Remarks": "Everything is working!"
 
     }
 
