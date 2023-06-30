@@ -1,5 +1,13 @@
 [
 
+    {
+
+        "ServiceName": "Synthara",
+        "Version": "1.4",
+        "Changelog": "<p>Synthara 1.4 is our biggest update yet and features a complete overhaul of many features.<br /><br /><strong>This version won't have a traditional changelog as it isn't a regular update.</strong> So many features have been changed, making a changelog uneccesary for this update. <strong>Every part of Synthara has been changed in some way!</strong><br /><br />We hope you enjoy Synthara 1.4, as well as the hundreds of bug fixes that came with it! Check back here for the changelog on 1.5 when we're ready.</p>"
+
+    },
+
     { 
 
         "ServiceName": "Sprout Website",
