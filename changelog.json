@@ -1,5 +1,12 @@
 [
+    {
 
+        "ServiceName": "Synthara",
+        "Version": "1.4 Hotfix 1",
+        "Changelog": "We pushed a hotfix to Synthara 1.4 to fix a few bugs that were introduced during the update.<br>We have fixed<br>• Suggested Songs 'Running Out'<br>• Skipping In Crossfade Not Working<br>• Seeking On The Lyric Portal Not Working<br>• Descriptions on embeds not being correct<br<br><strong>And More!<strong>"
+
+    },
+    
     {
 
         "ServiceName": "Synthara",
