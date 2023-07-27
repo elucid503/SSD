@@ -31,15 +31,7 @@
         "Remarks": "Everything is working!"
 
     },
-
-    { 
-
-        "ServiceName": "Indra Web Portal",
-        "Status": "Offline",
-        "Remarks": "The Indra Web Portal is currently offline and will most likely be depreciated soon."
-
-    },
-
+    
     { 
 
         "ServiceName": "Performing Arts Site",
