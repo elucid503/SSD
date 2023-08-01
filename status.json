@@ -19,8 +19,8 @@
     { 
 
         "ServiceName": "Ducky",
-        "Status": "Degraded",
-        "Remarks": "We're putting more effort on Synthara.<br>Please upgrade to Synthara soon!"
+        "Status": "Offline",
+        "Remarks": "Ducky is depreciated. For continuing music service, please upgrade to Synthara!"
 
     },
 
