@@ -18,25 +18,17 @@
 
     { 
 
-        "ServiceName": "Ducky",
-        "Status": "Offline",
-        "Remarks": "Ducky is depreciated. For continuing music service, please upgrade to Synthara!"
-
-    },
-
-    { 
-
         "ServiceName": "Sprout Website",
         "Status": "Online",
         "Remarks": "Everything is working!"
 
     },
-    
+
     { 
 
-        "ServiceName": "Performing Arts Site",
-        "Status": "Online",
-        "Remarks": "Everything is working!"
+        "ServiceName": "Ducky",
+        "Status": "Offline",
+        "Remarks": "Ducky is depreciated. For continuing music service, please upgrade to Synthara!"
 
     }
 
