@@ -3,10 +3,19 @@
     {
 
         "ServiceName": "Synthara",
+        "Version": "2.1",
+        "Changelog": "Synthara builds off of version 2.0 by introducing version 2.1, which includes changes to:<br><br>• Web Pages<br><br>• Subsystem-X<br><br>• Setting Customization<br><br>• General Reliability<br><br>And <strong>much</strong> more!<br>Please visit https://synthara.xyz to add Synthara 2.1 now!"
+
+    },
+    
+    {
+
+        "ServiceName": "Synthara",
         "Version": "2.0",
         "Changelog": "Synthara version 2.0 publically releases Synthara for all to use! Learn more at https://synthara.xyz/new"
 
     },
+    
     {
 
         "ServiceName": "Synthara",
