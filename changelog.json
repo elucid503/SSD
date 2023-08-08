@@ -3,6 +3,14 @@
     {
 
         "ServiceName": "Synthara",
+        "Version": "2.1 Hotfix 2",
+        "Changelog": "We pushed another hotfix (2.1-Hotfix-2) to include urgent changes related to our file system calls. This is in an attempt to fix possible data rewrites that were happening on versions 2.1-Hotfix-1 and earlier.<br><br>Thank you for your patience, feedback, and support!"
+
+    },
+    
+    {
+
+        "ServiceName": "Synthara",
         "Version": "2.1",
         "Changelog": "Synthara builds off of version 2.0 by introducing version 2.1, which includes changes to:<br><br>• Web Pages<br><br>• Subsystem-X<br><br>• Setting Customization<br><br>• General Reliability<br><br>And <strong>much</strong> more!<br><br>Please visit https://synthara.xyz to add Synthara 2.1 now!"
 
