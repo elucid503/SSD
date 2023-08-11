@@ -3,6 +3,14 @@
     {
 
         "ServiceName": "Synthara",
+        "Version": "2.2",
+        "Changelog": "Synthara puts reliability first in it's latest update! With version 2.2, we squashed more bugs than all our previous 2.x updates!<br><br>We also included several new commands:<br><br>• Tutorial<br><br>• Support<br><br>• Purge<br><br>These commands and this new update collectively helps us prioritize <strong>your experience</strong> before all else!"
+
+    },
+
+    {
+
+        "ServiceName": "Synthara",
         "Version": "2.1 Hotfix 2",
         "Changelog": "We pushed another hotfix (2.1-Hotfix-2) to include urgent changes related to our file system calls. This is in an attempt to fix possible data rewrites that were happening on versions 2.1-Hotfix-1 and earlier.<br><br>Thank you for your patience, feedback, and support!"
 
