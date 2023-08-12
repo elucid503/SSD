@@ -1,4 +1,11 @@
 [
+     {
+
+        "ServiceName": "Synthara",
+        "Version": "2.2 Hotfix 1",
+        "Changelog": "We pushed a hotfix (2.1-Hotfix-2) to include some minor bug fixes. This hotfix fixes issues with:<br><br>• Spatialized Mode<br><br>• /help Responses<br><br>Thank you for your feedback and support!"
+
+    },
 
     {
 
@@ -11,8 +18,8 @@
     {
 
         "ServiceName": "Synthara",
-        "Version": "2.1 Hotfix 2",
-        "Changelog": "We pushed another hotfix (2.1-Hotfix-2) to include urgent changes related to our file system calls. This is in an attempt to fix possible data rewrites that were happening on versions 2.1-Hotfix-1 and earlier.<br><br>Thank you for your patience, feedback, and support!"
+        "Version": "2.1 Hotfix 1",
+        "Changelog": "We pushed a hotfix (2.1-Hotfix-1) to include urgent changes related to our file system calls. This is in an attempt to fix possible data rewrites that were happening on versions 2.1-Hotfix-1 and earlier.<br><br>Thank you for your patience, feedback, and support!"
 
     },
     
