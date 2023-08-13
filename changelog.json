@@ -1,9 +1,17 @@
 [
+   {
+
+        "ServiceName": "Synthara",
+        "Version": "2.2 Hotfix 2",
+        "Changelog": "We pushed a hotfix (2.1-Hotfix-2) to include some minor bug fixes relating to YouTube playlists and Age-Restricted videos.<br><br><strong>Both</strong> YouTube Playlists and Age-Discretion-Enabled YouTube videos are now available to play again.<br><br>Thank you for your feedback and support!"
+
+    },
+     
      {
 
         "ServiceName": "Synthara",
         "Version": "2.2 Hotfix 1",
-        "Changelog": "We pushed a hotfix (2.1-Hotfix-2) to include some minor bug fixes. This hotfix fixes issues with:<br><br>• Spatialized Mode<br><br>• /help Responses<br><br>Thank you for your feedback and support!"
+        "Changelog": "We pushed a hotfix (2.1-Hotfix-1) to include some minor bug fixes. This hotfix fixes issues with:<br><br>• Spatialized Mode<br><br>• /help Responses<br><br>Thank you for your feedback and support!"
 
     },
 
