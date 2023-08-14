@@ -5,7 +5,7 @@
 
         "ServiceName": "Synthara",
         "Version": "2.2 Hotfix 3",
-        "Changelog": "We pushed a hotfix (2.1-Hotfix-3) to include some minor bug fixes relating to the Adaptive Volume setting.<br><br>This setting should now<strong>always</strong> be honored and prevent Adaptive Volume from being enabled, if set to Disabled.<br><br>Thank you for your feedback and support!"
+        "Changelog": "We pushed a hotfix (2.1-Hotfix-3) to include some minor bug fixes relating to the Adaptive Volume setting.<br><br>This setting should now <strong>always</strong> be honored and prevent Adaptive Volume from being enabled, if set to Disabled.<br><br>Thank you for your feedback and support!"
 
     },
      
