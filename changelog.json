@@ -1,5 +1,12 @@
 [
 
+  {
+
+        "ServiceName": "Synthara",
+        "Version": "2.2.5",
+        "Changelog": "Synthara 2.2.5 improves general stability by implementing network retries on most requests. 2.2.5 also makes a significant improvement towards making the volume system more coherent and cleaner.<br><br>The new way the volume system works is as follows:<br><br>• You can choose to disable Adaptive Volume at any time using /settings. This applies to all songs.<br>• You can manually set a volume using /volume. This volume is consistent and stays the same even after you disconnect Synthara and reconnect for another song.<br>• Volume changes made while the Adaptive Volume setting is enabled will only be reflected for that voice session. After Synthara disconnects, or you re-enable Adaptive Volume, your manual volume will be forgotten.<br><br>I hope this helps simplify and clean up one of Synthara's (admittedly) messiest features. Since Adaptive Volume has changed so much and customization was relatively new, combining all the previous features into this new layout was inevitable, but not easy.<br><br>Please let me know if any problems or questions, enjoy!!!"
+
+    },
    
    {
 
